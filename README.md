@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Current Projects:<br>- Developing an advanced automation script with custom keybinding and window management features.<br>- Experimenting with Rust for building efficient cross-platform applications.<br><br>💡 Skills:<br>- Languages: Python, Rust (Beginner), C++ (Beginner)<br>- Frameworks: PyAutoGUI, PyWinAuto, FLTK, Tkinter, PyTorch
+🚀 Current Projects:<br>- Developing an advanced automation script with custom keybinding and window management features.<br>- Experimenting with Rust for building efficient cross-platform applications.<br><br>💡 Skills:<br>- Languages: Python, Rust (Beginner), C++ (Beginner)
 
 
 # 💻 Tech Stack:
